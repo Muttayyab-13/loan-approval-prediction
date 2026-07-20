@@ -1,1 +1,18 @@
-.venv
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Assignment brief PDF (not part of the project code)
+134290226818766129.pdf
